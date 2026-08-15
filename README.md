@@ -68,8 +68,7 @@ Microsoft Power BI (Power Query, DAX, data modeling, interactive dashboards) · 
 **Oluwatosin Olusanya**
 Data Analytics Intern, AnalystLab Africa
 Senior Finance Officer (13+ years) transitioning into Financial Data Analysis
-[LinkedIn](https://www.linkedin.com/in/PLACEHOLDER) · [X / Twitter](https://x.com/PLACEHOLDER)
-
+www.linkedin.com/in/oluwatosin-olusanya-aa97a739a · https://x.com/sunday_tosin
 ## Acknowledgment
 
 Completed as part of the [AnalystLab Africa](https://www.analystlabafrica.com) Data Analytics Internship Programme — building Africa's next generation of Data, AI & Technology professionals.
