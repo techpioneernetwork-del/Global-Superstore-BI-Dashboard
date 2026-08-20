@@ -1,0 +1,19 @@
+This folder has everything NEW/UPDATED for Week 3. Add/replace these in your
+EXISTING Global-Superstore-BI-Dashboard GitHub repo:
+
+REPLACE (these overwrite what's already in your repo):
+  dashboard/Global_Superstore_Dashboard.pbix  -> replaces the old Week 2-only .pbix
+  dashboard/Global_Superstore_Dashboard.pdf   -> replaces the old Week 2-only PDF
+  README.md                                    -> replaces the old README
+                                                   (re-add your real LinkedIn/X links!)
+
+ADD (these are brand new, your repo doesn't have these yet):
+  reports/01_Project_Continuity_Summary.docx
+  reports/02_Advanced_Data_Analysis_Report.docx
+  reports/03_Business_Insights_and_Recommendations_Report.docx
+  reports/04_DAX_Measures_Documentation.docx
+
+LEAVE ALONE (already correct in your repo, don't touch):
+  reports/01_BI_Overview_Report.docx
+  reports/02_Executive_Summary_Report.docx
+  data/Global_Superstore_Clean.csv (same file, no changes needed)
